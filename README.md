@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/shutterstock/photos/401797897/display_1500/stock-photo-powerful-programming-language-word-python-of-the-yellow-square-pixels-on-a-black-matrix-background-401797897.jpg)
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/uploads/20240415204701/How-to-Become-a-Python-Full-Stack-Developer.png)
 <h1 align="center">Hi 👋, I'm YeddulaDastagri</h1>
 <h3 align="center">A passionate Full Stack Developer From India</h3> 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
