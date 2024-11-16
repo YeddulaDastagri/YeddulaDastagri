@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yedduladastagri&label=Profile%20views&color=0e75b6&style=flat" alt="yedduladastagri" /> </p>
 
-- 🌱 I’m currently learning **Python Full Stack course**
+- 🌱 I’m currently learning **Python Full Stack Course**
 
-- 👯 I’m looking to collaborate on **Python projects**
+- 👯 I’m looking to collaborate on **Python Projects**
 
 - 📫 How to reach me **yedduladastagiri999@gmail.com**
 
